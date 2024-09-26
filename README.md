@@ -1813,6 +1813,7 @@ A [low-code](https://en.wikipedia.org/wiki/Low-code_development_platform) develo
 
 _Related: [Software Development - IDE & Tools](#software-development---ide--tools)_
 
+- [Webstudio](https://webstudio.is) - an Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us. ([Source Code](https://github.com/webstudio-is/webstudio)) `AGPLv3` `Nodejs/Docker/Cloudflare Worker/Vercel/Netlify`
 - [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker/K8S`
 - [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
 - [CASE](https://case.app) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code](https://github.com/casejs/case)) `MIT` `Nodejs`
